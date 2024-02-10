@@ -2,9 +2,11 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=swatikawale&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
+<!--
 <p align="center">
   <img style="width:14rem; height:auto" src="https://media.tenor.com/hR312hTG5T0AAAAi/mythikore-anime-girl.gif"/>
 </p>
+-->
 
 <h1 align="center">Hi, I'm Swati Kawale</h1>
 
