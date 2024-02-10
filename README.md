@@ -58,8 +58,8 @@
 - 📫 Email: swatikawale1@outlook.com
 
 <div align="center"> 
-    <a href="https://github.com/swatikawale"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=swatikawale&show_icons=true&count_private=true&theme=material-palenight&border_color=7F3FBF&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/swatikawale"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=swatikawale&langs_count=8&layout=compact&theme=material-palenight&border_color=7F3FBF&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/swatikawale"><img alt="Swati's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=swatikawale&show_icons=true&count_private=true&theme=material-palenight&border_color=7F3FBF&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/swatikawale"><img alt="Swati's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=swatikawale&langs_count=8&layout=compact&theme=material-palenight&border_color=7F3FBF&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </div>
 
