@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:14rem; height:auto" src="https://vidhi-mody.github.io/img/contribute.gif"/>
+  <img style="width:14rem; height:auto" src="https://media.tenor.com/hR312hTG5T0AAAAi/mythikore-anime-girl.gif"/>
 </p>
 <!-- <p align="center">
   <img style="width:14rem; height:auto" src="https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-7362399-6031664.gif"/>
