@@ -2,7 +2,8 @@
   <img style="width:14rem; height:auto" src="https://media.tenor.com/hR312hTG5T0AAAAi/mythikore-anime-girl.gif"/>
 </p> 
 
-<h1 align="center">Hi, I'm Swati Kawale</h1>
+<h1 align="center">Hi, I'm Swati Kawale</h1> 
+
 <h3 font-size="20" align="center"></h3>
 
 <h3 align="center">Connect with me</h3>
@@ -55,6 +56,14 @@
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
+
+<div align="center">
+<a> 
+    <a href="https://github.com/swatikawale"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=swatikawale&show_icons=true&count_private=true&theme=material-palenight&border_color=7F3FBF&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/swatikawale"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=swatikawale&langs_count=8&layout=compact&theme=material-palenight&border_color=7F3FBF&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+</div>
 
 
 ------
