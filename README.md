@@ -23,7 +23,7 @@
 
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2 align="center" style="margin: 5px 10px;">Github Stats:</h2> 
   
 [![](https://github-readme-streak-stats.herokuapp.com/?user=swatikawale&theme=material-palenight)](https://github.com/swatikawale)
 </div>
