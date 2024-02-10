@@ -50,7 +50,7 @@
 [![Real Me 8s 5G](https://img.shields.io/badge/Realme%208s%205g-ff0505?style=flat-square&logo=Lenovo&logoColor=FFFFFF&labelColor=0595ff)](https://www.realme.com/in/realme-8s-5g/specs) 
 
 
-![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/mail-24.svg "Chat With Me") Chat With Me
+### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/mail-24.svg "Chat With Me") Chat With Me
 - 📫 Email: swatikawale1@outlook.com
 
 <a> 
