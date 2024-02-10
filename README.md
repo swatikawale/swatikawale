@@ -1,16 +1,9 @@
 <p align="center">
   <img style="width:14rem; height:auto" src="https://media.tenor.com/hR312hTG5T0AAAAi/mythikore-anime-girl.gif"/>
-</p>
-<!-- <p align="center">
-  <img style="width:14rem; height:auto" src="https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-7362399-6031664.gif"/>
-</p> -->
+</p> 
 
 <h1 align="center">Hi, I'm Swati Kawale</h1>
 <h3 font-size="20" align="center"></h3>
-
-
-
-
 
 <h3 align="center">Connect with me</h3>
 
