@@ -1,6 +1,9 @@
 <p align="center">
-  <img style="width:14rem; height:auto" src="https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-7362399-6031664.gif"/>
+  <img style="width:14rem; height:auto" src="https://vidhi-mody.github.io/img/contribute.gif"/>
 </p>
+<!-- <p align="center">
+  <img style="width:14rem; height:auto" src="https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-7362399-6031664.gif"/>
+</p> -->
 
 <h1 align="center">Hi, I'm Swati Kawale</h1>
 <h3 font-size="20" align="center"></h3>
