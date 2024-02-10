@@ -8,13 +8,15 @@
 <h3 align="center">Connect with me</h3>
 
 <div style="margin-top:10px" align="center">
-  <div>
+  <div> 
+ <a href="https://swatikawale.github.io/portfolio/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="swatikawale" />
+ </a>
     <a  href="https://www.linkedin.com/in/swati-kawale/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="swatikawale"/>
     </a>
-    <a  href="https://www.instagram.com/swati_k_50" target="_blank">
-    <!-- <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-purple" alt="example"/> -->
-     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white&color=purple" alt="swati_k_50" />
+    <a  href="https://www.instagram.com/swati_k_50" target="_blank"> 
+     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white&color=purple" alt="swatikawale" />
     </a>
    
   </div>
