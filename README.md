@@ -14,7 +14,7 @@
     </a>
     <a  href="https://www.instagram.com/swati_k_50" target="_blank">
     <!-- <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-purple" alt="example"/> -->
-     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=whitecolor=purple" alt="swati_k_50" />
+     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white&color=purple" alt="swati_k_50" />
     </a>
    
   </div>
